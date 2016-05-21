@@ -8,8 +8,9 @@ import com.facebook.react.bridge.ReactMethod;
 
 public class RestartActionModule implements ReactContextBaseJavaModule {
 
-    public ToastModule(ReactApplicationContext reactContext) {
-        super(reactContext);
+    @Override
+    public String getName() {
+        return "RestartAction";
     }
 
     @ReactMethod
