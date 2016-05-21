@@ -1,2 +1,4 @@
 import { NativeModules } from 'react-native';
-module.exports = NativeModules.RestartAction;
+module.exports = {
+  restart: NativeModules.RestartAction.restart
+};
