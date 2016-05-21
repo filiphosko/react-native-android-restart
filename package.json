@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-restart",
+  "version": "0.0.1",
+  "description": "React-native component for restarting your android app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamiang/react-native-android-restart.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android"
+  ],
+  "author": "Brennan Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zamiang/react-native-android-restart/issues"
+  },
+  "homepage": "https://github.com/zamiang/react-native-android-restart#readme",
+  "dependencies": {}
+}
