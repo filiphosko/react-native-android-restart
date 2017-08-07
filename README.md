@@ -73,7 +73,7 @@ class App extends React.Component {
   render() {
     return (
       <View>
-        <Button onClick={this.restart} "/>
+        <Button onClick={this.restart} />
       </View>
     );
   }
